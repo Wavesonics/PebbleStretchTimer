@@ -19,17 +19,17 @@ int curEventTime;
 
 Event g_events[] = {
 						{ 0, "Get ready...", 5 },
-		
+						
 						{ 1, "Gastroc: Left", 30 },
-						{ 0, "Rest", 5 },
+						{ 0, "Rest", 3 },
 						{ 1, "Gastroc: Right", 30 },
 						{ 0, "Rest", 5 },
-							
+						
 						{ 1, "Soleus: Left", 30 },
-						{ 0, "Rest", 5 },
+						{ 0, "Rest", 3 },
 						{ 1, "Soleus: Right", 30 },
 						{ 0, "Rest", 5 },
-							
+						
 						{ 1, "Climber's: Left", 30 },
 						{ 0, "Rest", 5 },
 						{ 1, "Climber's: Right", 30 },
@@ -38,16 +38,12 @@ Event g_events[] = {
 						{ 1, "Hip Flexor: Left", 30 },
 						{ 0, "Rest", 5 },
 						{ 1, "Hip Flexor: Right", 30 },
-						{ 0, "Rest", 5 },
+						{ 0, "Rest", 20 },
 						
-						{ 0, "Rest", 10 },
-							
 						{ 1, "Leg Hang: Left", 30 },
 						{ 0, "Rest", 10 },
 						{ 1, "Leg Hang: Right", 30 },
-						{ 0, "Rest", 5 },
-						
-						{ 0, "Rest", 10 },
+						{ 0, "Rest", 15 },
 						
 						{ 1, "Prone Hip Rotation: Left", 30 },
 						{ 0, "Rest", 10 },
