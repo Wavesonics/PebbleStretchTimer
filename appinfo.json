@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "207aec9e-fad7-4314-b765-6993e178d053",
+    "appKeys": {},
+    "longName": "StretchTimer",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "StretchTimer",
+    "companyName": "Wavesonics",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
